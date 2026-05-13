@@ -1,4 +1,3 @@
-<img width="637" height="343" alt="image" src="https://github.com/user-attachments/assets/7f876c64-e7fe-44ca-98b2-d29945c1d8c7" /># ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 # NAME-SRILAKSHMI BH
 # REG.NO-212224100057 
