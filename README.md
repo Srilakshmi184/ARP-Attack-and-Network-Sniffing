@@ -1,4 +1,4 @@
-# ARP-Attack-and-Network-Sniffing
+<img width="637" height="343" alt="image" src="https://github.com/user-attachments/assets/7f876c64-e7fe-44ca-98b2-d29945c1d8c7" /># ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 # NAME-SRILAKSHMI BH
 # REG.NO-212224100057 
@@ -26,12 +26,14 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 
-<img width="491" height="356" alt="image" src="https://github.com/user-attachments/assets/06cf3d6e-a168-419e-b43f-f89296531942" />
+<img width="856" height="738" alt="image" src="https://github.com/user-attachments/assets/c8cb8187-fd96-40ba-8ca7-10b16b43de2d" />
 
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
+
+<img width="637" height="343" alt="image" src="https://github.com/user-attachments/assets/f4efefe2-4d55-48f4-a1fc-a49720760921" />
 
 
  dsniff:
