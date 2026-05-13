@@ -1,6 +1,7 @@
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
-
+# NAME-SRILAKSHMI BH
+# REG.NO-212224100057 
 # AIM:
 
 To explore network sniffing and ARP Attacks
@@ -24,6 +25,8 @@ ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC addres
 Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
+
+<img width="491" height="356" alt="image" src="https://github.com/user-attachments/assets/06cf3d6e-a168-419e-b43f-f89296531942" />
 
 
 From kali linux issue the command :
